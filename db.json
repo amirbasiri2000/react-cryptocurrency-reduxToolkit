@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name":"amir",
+      "email":"amir@gmail.com",
+      "contact":"48540",
+      "address":"address 1"
+    },
+    {
+      "name":"John",
+      "email":"John@gmail.com",
+      "contact":"48540",
+      "address":"address 1"
+    },
+    {
+      "name":"Jimy",
+      "email":"Jimy@gmail.com",
+      "contact":"48540",
+      "address":"address 1"
+    },
+    {
+      "name":"ragnar",
+      "email":"ragnar@gmail.com",
+      "contact":"48540",
+      "address":"address 1"
+    }
+  ]
+}
