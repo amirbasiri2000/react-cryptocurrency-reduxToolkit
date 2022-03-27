@@ -2,7 +2,6 @@ import { Routes, Route, Link } from 'react-router-dom';
 import { Layout, Typography, Space } from 'antd';
 import { Navbar } from './components';
 import {
-  Exchanges,
   Homepage,
   Cryptocurrencies,
   News,
