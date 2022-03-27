@@ -75,7 +75,9 @@ a:hover {
   justify-content: center;
   align-items: center;
 }
-
+.ant-layout{
+  min-height: 82vh;
+}
 @media screen and (max-width: 1300px) {
   .main {
     margin-left: 50px;
